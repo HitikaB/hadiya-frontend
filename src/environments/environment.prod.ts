@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiGatewayURL: 'http://localhost:3000'
+  apiGatewayURL: 'tf-alb-hitika-1565720921.ap-south-1.elb.amazonaws.com'
 };
